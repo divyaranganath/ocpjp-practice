@@ -1,7 +1,7 @@
 //program takes a Sentence and prints the given sentence and removes repeated words and prints it
 
 
-package oracle_java_tutorial_egs;
+package com.divya.ocpjp.practice;
 
 import java.util.HashSet;
 import java.util.Set;

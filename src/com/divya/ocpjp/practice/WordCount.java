@@ -1,5 +1,5 @@
 //program that counts the number of times the word "cats" appears in the input string
-package oracle_java_tutorial_egs;
+package com.divya.ocpjp.practice;
 
 import java.util.regex.*;
 

@@ -1,6 +1,6 @@
 //program takes a Sentence and prints the given sentence and removes repeated words and prints it in sorted order
 
-package oracle_java_tutorial_egs;
+package com.divya.ocpjp.practice;
 
 import java.util.*;
 

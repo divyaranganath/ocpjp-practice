@@ -2,7 +2,7 @@
 //This effect can be achieved by generating two sets — one containing every word in the argument list and the other containing only the duplicates. 
 //The words that occur only once are the set difference of these two sets, which we know how to compute
 
-package oracle_java_tutorial_egs;
+package com.divya.ocpjp.practice;
 
 import java.util.*;
 

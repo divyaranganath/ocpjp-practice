@@ -1,5 +1,5 @@
 //program to shoe the use of lookingAt() and matches() methods
-package oracle_java_tutorial_egs;
+package com.divya.ocpjp.practice;
 
 import java.util.regex.*;
 public class RegexMatches {

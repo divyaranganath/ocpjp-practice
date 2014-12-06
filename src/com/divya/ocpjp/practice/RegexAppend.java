@@ -1,5 +1,5 @@
 //program showing usuage of appendReplacement() and appendTail() methods
-package oracle_java_tutorial_egs;
+package com.divya.ocpjp.practice;
 
 import java.util.regex.*;
 
